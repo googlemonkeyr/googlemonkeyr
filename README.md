@@ -3,7 +3,7 @@ Google - Multiple columns of results, Remove "Sponsored Links", Number results, 
 
 Disclaimer:
 
-NOT my script
+NOT my script 
 
 GoogleMonkeyR
 
@@ -15,4 +15,6 @@ v1.7.0 - Google search results formatted how you like.
 
 http://google.monkeyr.com/ff/images/prefs.png
 
+NOTE: userscripts.org is down for good, now script being hosted at:
+§https://greasyfork.org/scripts/2978-googlemonkeyr
 
